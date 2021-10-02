@@ -2,6 +2,6 @@
 
   Link para as notas de aula: https://github.com/luiz-classrooms/mc-lecture-notes
 
-  Dentre as questões ?? a ?? das notas de aula, escolha ?? e as resolva.
+  Dentre as questões 89 a 106 das notas de aula, escolha 10 e as resolva.
 
-  Implemente o algoritmo ??.
+  Implemente o algoritmo de Edmonds-Karp para o Problema de Fluxo Máximo.
